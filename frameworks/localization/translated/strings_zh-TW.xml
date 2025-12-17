@@ -283,7 +283,7 @@
   <string name="YourBestScore">Your Device's Best Score</string>
   <string name="YourDevice">您的裝置</string>
   <string name="AboutSectionBody">GFXBench 是一款 3D 圖形的基準測試軟體，用於測試裝置的圖形效能，以及跨平台與其他熱門裝置比較的結果。GFXBench 由 Kishonti 公司開發。如果您對我們的公司感興趣，請造訪我們的網站 kishonti.net！</string>
-  <string name="CorporateCommercial">請注意您目前使用的是 GFXBench 社群版。 針對開發目的，我們建議您使用公司授權版。若需要授權資訊，請透過 sales@kishonti.net 聯絡我們！</string>
+  <string name="CorporateCommercial"></string>
   <string name="FollowUsSectionBody">GFXBench 是一款跨平台的 3D 圖形基準測試軟體，用於衡量裝置的表現，並與其他裝置效能進行比較。</string>
   <string name="STATUS_VIEW_INFO_PAGE">Device is working correctly. View OpenGL details on InfoPage.</string>
   
@@ -435,100 +435,64 @@
   <string name="dx_trex_off">1080p T-Rex Offscreen</string>
   <string name="dx_trex_qmatch">渲染品質</string>
   <string name="dx_trex_qmatch_highp">渲染品質 (高準確度)</string>
-  
-  <string name="LicenseDialogBody">終端使用者授權合約 
-關於 KISHONTI KFT 的基準測試軟體產品 
-         
-         
-重要通知 - 請仔細閱讀：本軟體終端使用者授權合約係一份具法律效力，約束貴用戶與 KISHONTI KFT 之間對 KISHONTI 的效能基準測試軟體產品的協議。貴用戶仔細閱讀以下條款和條件前，請勿下載、複製、安裝或使用依本授權合約所提供的軟體。任何未遵守此授權合約的規範，對軟體或其構成要素進行重製、重分配者，為法律明文禁止。同時可能引發嚴重的民事和刑事懲罰以及其他後果。 
-         
-僅供私人、非商業用途授權：本軟體授權個人及非商業使用的消費者使用，讓消費者在從事個人和非商業活動時，測試他 / 她的裝置效能。其他用途未獲授權且不得適用。 
-若貴用戶需要此軟體商業利用的授權，請透過 SALES@KISHONTI.NET 聯絡 KISHONTI KFT！ 
-         
-         
-1.定義 
-         
-「裝置」係指符合在軟體文件中所述之軟體系統要求，以及能夠連線到網際網路的電子設備。 
-「EULA」係指本軟體的終端使用者授權合約 (以下稱授權合約)。 
-「KISHONTI」係指 KISHONTI Kft.，一家根據匈牙利法律組織的有限責任公司，註冊地址在 1037 Budapest, Szepvolgyi ut 39., Hungary (匈牙利布達佩斯)，註冊號為登記法院布達佩斯都市法院 Cg. 01-09-935577。 
-「停用的功能」係指隱藏或顯示停用或「變灰」的特性或功能。此軟體可能包含停用的功能，這些功能只會在所使用的軟體版本係從 KISHONTI 取得，且支付授權費用的前提下才能啟用。 
-「軟體」係指根據本授權合約，KISHONTI 在線上 (透過網際網路連線) 提供的效能測試基準軟體，包含 (a) 這些檔案的所有內容，也許包括 KISHONTI 或第三方廠商的電腦資訊或軟體，相關的解釋書面資料或檔案和字型；以及 (b) KISHONTI 於任何時間提供的升級程式、修正版本、更新程式、新增功能以及上述項目的拷貝 (統稱「更新程式」)。 
-「使用」係指存取、下載、安裝、執行、以軟體測試裝置或其他透過使用軟體功能獲致的利益。 
-         
-         
-2.授權範圍 
-         
-KISHONTI 授予此軟體的免費授權為不可轉讓授權，僅限在貴用戶所擁有或控制的裝置上使用此軟體。如本授權合約所述 KISHONTI 得隨時中止 (終止) 此軟體的授權與提供。 
-         
-有關使用此軟體或其任何元件的權利和義務如下： 
-         
-(i) 貴用戶可以： 
-(a) 免費下載、安裝和使用軟體。使用此軟體需要網際網路連線； 
-(b) 貴用戶可隨時依個人使用需要，在每台裝置上使用此軟體的拷貝或其任何元件以及所有更新，直到 KISHONTI (自行決定) 提供該軟體或直到 KISHONTI 終止本授權合約為止； 
-(c) 此軟體僅供個人用途使用。此軟體和任何測試結果或透過使用此軟體產生的其他資料，無法用於商業用途 (包括但不限於政府或非營利組織的使用)。 
-         
-(ii) 貴用戶不得： 
-(a) 使用、複製、改寫、修改或轉讓軟體拷貝 (或授權其他人執行)，本授權合約明確提供者除外； 
-(b) 在電腦檔案伺服器安裝或使用此軟體； 
-(c) 從軟體移除任何專屬或其他通知或標籤； 
-(d) 進行還原工程、重新配置、修改、轉譯、解編、反向組譯或根據此軟體製作衍生著作 (但適用法律明文允許此類活動者，不在此限)； 
-(e) 銷售、散布、出租、租賃、再授權、轉讓或讓渡軟體或其拷貝，包括所有相關文件； 
-(f) 擷取軟體部份的元素； 
-(g) 將軟體與其他軟體、外掛程式或增補程式整合使用； 
-(h) 企圖找到軟體的程式源碼，判定或嘗試判定軟體的程式源碼，或根據產品創作任何衍生著作 (但適用法律明文允許此類活動者，不在此限)； 
-(i) 存取、或嘗試存取任何停用的功能，也不得根據此軟體創作與停用功能大致相似的功能，或以其他方式規避控制此類停用功能之啟用的科技。 
-         
-3.智慧財產權與保留權利。 
-         
-此軟體及任何貴用戶製作的授權拷貝皆為 KISHONTI (及其供應商，如適用) 的智慧財產。此軟體的結構、組織和程式碼為 KISHONTI (及其供應商，如適用) 之有價智慧財產 (例如：交易秘密及機密資訊)。此軟體受法律保障，包括但不限於匈牙利、美國和其他國家的著作權法，同時受國際公約條款的保護。除了此處明確提及者，本授權合約並未授予貴用戶任何此軟體的智慧財產權，且 KISHONTI (及其供應商，如適用) 保留所有未明確賦予的權利。 
-如本授權合約所述，透過使用此軟體建立的測試結果，一旦上傳至 KISHONTI 的伺服器將成為 KISHONTI 的財產。 
-         
-         
-4.連線。上傳及顯示測試結果 
-         
-(a) 需要網際網路連線 
-貴用戶理解並同意此軟體僅能在裝置連線到網際網路 (連線至 KISHONTI 的基準資料處理伺服器) 時使用。 
-         
-(b) 上傳及顯示測試結果 
-貴用戶理解並同意當您使用此軟體時，透過如此使用之測試結果將不另行通知，自動上傳至 KISHONTI 的伺服器。貴用戶亦理解並同意因此上傳的結果將成為 KISHONTI 的財產。KISHONTI 得自行決定將此測試結果顯示在 KISHONTI 的網站，且 KISHONTI 得顯示、移除或重新安置測試結果，不需另行通知或解釋。 
-         
-(c) 更新 
-如果裝置連線至網際網路，軟體 (不另行通知) 可能檢查可用的更新程式，進而自動下載並安裝到裝置，並回報 KISHONTI 該軟體已成功安裝。更新程式可能自動下載並安裝，而不另行通知。發生此情形時，只有非個人的識別資訊會傳送到 KISHONTI，惟在某些司法管轄區可能認定 IP 位址為個人識別資料。此類資訊的使用，包括經由自動更新流程提供的 IP 位址等，受 KISHONTI 的隱私權政策 (可於 www.kishonti.net 閱讀) 所規範。再者，如果裝置連線至網際網路，軟體可能 (不另行通知，依週期性或規律基礎) 加速您存取由 KISHONTI 維護在網站上主持的內容和服務。當軟體連線至網際網路，您的 IP 位址、使用者名稱和密碼可能傳送到 KISHONTI 的伺服器並由 KISHONTI 儲存。KISHONTI 可能利用此資訊傳送交易訊息給貴用戶，促進軟體的使用和/或功能。KISHIONTI 可能展示產品內行銷，以提供有關此軟體和 KISHONTI 其他產品及服務的資訊。每當軟體進行網際網路連線並與 KISHONTI 網站進行溝通時，無論自動或因明確的使用者請求，都適用 KISHONTI 的隱私權政策。 
-         
-         
-5.中止使用此軟體 
-         
-KISHONTI 隨時有權修改或更新此軟體，或修改或移除此軟體的任何部分、元素和功能特性，毋須提出通知或解釋。 
-         
-KISHONTI 隨時有權中止 (終止) 此軟體 (或此軟體之前版本)，或者此軟體的任何部分、元素和功能特性之提供、存取或使用，毋須提出通知或解釋。 
-         
-貴用戶使用此軟體之授權持續有效，直到由貴用戶或 KISHONTI 提出終止為止。貴用戶可以藉由從裝置上解除安裝 (完全移除) 此軟體的所有拷貝來終止授權。若貴用戶無法遵守本授權之所有條款，根據此使用授權您的權利將自動終止，KISHONTI 毋須另行通知。在授權終止後，貴用戶應立即提止所有軟體的使用，並銷毀所有軟體全部或部份的拷貝。授權之終止 (中止軟體的提供) 不會影響 KISHONTI 對上傳至其伺服器測試結果的專屬權利。 
-         
-         
-6.無責任擔保 
-         
-貴用戶明確理解並同意此軟體使用 (或無法使用) 之風險由用戶自行承擔，且有關品質滿意度、性能表現、準確度和努力等整體風險皆由貴用戶承擔。在適用的強制法律允許的最大範圍內，此軟體及 KISHONTI 執行或提供的任何服務皆依「現狀」和「原樣且可提供」來提供，含一切瑕疵但不附任何形式的擔保，KISHONTI 特此聲明我們不為所有有關此軟體和其他服務提供擔保及條件，不論明示、默示或法令，包括但不限於商業適售性、品質滿意度、特定用途之適用性、準確性、平靜享用和未侵犯其他第三方權利之默示擔保和 / 或條件。KISHONTI 不對以下項目進行擔保：對享用軟體的干擾、內建功能、或所執行或提供之服務、軟體符合用戶需求、軟體或服務之運作不會中斷或出錯、或軟體或服務瑕疵獲得修正。KISHONTI 或其授權代表不得提供口頭或書面資訊或建議，構成擔保條件。若經證明為軟體或服務瑕疵，貴用戶應承擔所有必要服務、維修或修正的全部費用。某些管轄法院不允許排除適用消費者法規權利默示擔保或限制責任；若發生此種情況，將實施根據適用法律允許的最大限制責任 (擔保的程度相當於 KISHONTI 所受最低 (最小) 程度的危害)。 
-         
-在法律未禁止的範圍內，無論發生何種情況，對於和軟體的不當使用有關的個人、財產或經濟傷害、破壞或損失，或者包括但不限於執行軟體所使用的裝置，因任何因素使裝置過熱造成之傷害、破壞或損失，KISHONTI 毋須對此負有法律責任。貴用戶明確承擔使用此軟體相關或引起的所有個人、財產或經濟傷害的風險。在法律未禁止的範圍內，無論發生何種情況，對於因使用或無法使用軟體引起或相關的個人、財產或經濟傷害、破壞或損失，或舉凡任何伴隨、特疏、間接或必然的損壞，包括但不限於：利潤損失破壞、資料損失、業務中斷、商業損失、喪失儲蓄或其他商業或非商業破壞或損失，無論如何造成，不計責任理論 (契約、侵權或其他)，甚至 KISHONTI 已被告知這些損害的可能性，KISHONTI 皆毋須對此負有法律責任。某些管轄法院不允許針對個人傷害、或伴隨或必然的損害進行限制責任；若發生此種情況，將實施根據適用法律允許的最大限制責任 (擔保的程度相當於 KISHONTI 所受最低 (最小) 程度的危害)。無論發生何種情況，KISHONTI 對貴用戶所有損失 (除了涉及個人傷害的情況下，適用法律可能要求外) 的總賠償責任都不應超過 $50.00 (五十美元)。即使上述的救濟措試失去其主要作用，仍適用前述的限制。 
-         
-7.遵守授權 
-貴用戶同意當 KISHONTI 或 KISHONTI 之授權代表提出要求時，將在 30 (三十) 天內，備妥完整文件並證明在請求提出的時點，貴用戶所使用的任何和所有軟體符合來自 KISHONTI 的有效授權。 
-         
-         
-8.管轄法律及管轄權 
-         
-本授權合約 (包括但不限於因本授權合約引起或有關的所有爭議、違反、終止、有限性或解釋) 受匈牙利法律約束並按照該國獨立法律進行解釋。無論本授權合約是否有其他規定，KISHONTI 或貴用戶得要求任何司法、行政或其他權責機構頒布任何臨時或保全性措施，包括禁制令救濟、強制履行、或其他衡平救濟，在開始法律訴訟之前，或在訴訟期間，對其權利和利益進行保護，或強制履行適用於臨時救濟措施的特殊條款。本授權合約的英文版本將作為解釋或解讀此合約的版本。本授權合約不受任何衝突的司法法律條文或《聯合國國際貨物買賣公約》所約束，其適用性已明確排除。 
-         
-         
-9.其他細則 
-         
-(a) 本授權合約是 KISHONTI 與貴用戶之間有關此軟體的完整協議，它將取代先前任何有關此軟體的陳述、討論、承諾、溝通或廣告 (KISHONTI 隱私權政策的應用除外)。 
-(b) 若本授權合約中的任何細則 (包括當中所有章節、條文、段落、句子或文字) 係或變為無效或無法執行，惟從本合約的本質或內容，或依本合約簽訂之情況，明顯不能從本授權合約其餘部分分離者，不應影響本授權合約中任何其他細則的有效性和強制性。本授權合約中如出現任何錯誤或遺漏，可合理解決者，此原則同樣適用。對於要取代法律無法執行的細則，或修正錯誤或遺漏，雙方應根據本授權合約所述的基本原則，以合理真誠態度進行協商並同意，法律允許的適當替代條款，以及如果他們知道法律無法執行、錯誤或遺漏時，最接近本授權合約的商業意圖或打算 (視情況而定)。 
-(c) 如果該種權利是強制適用於本授權合約的法定權利，本授權合約不會剝奪作為消費者一方的權利。  
-(d) 本授權合約僅可經由 KISHONTI 授權的高階主管書面簽署進行修改。KISHONTI 可能配合額外或不同的條款授權更新程式給貴用戶。 
-(e) 貴用戶同意不輸出來自軟體的任何部份，或任何透過使用軟體產生的資料或其直接產品，除非符合適用的輸出法律、規定和規則且持有所有授權和所需批准。 
-         
-KISHONTI Kft.[*] 2013 年 9 月 
-版權所有。保留任何在此未明確賦予之權利。</string>
+
+  <string name="LicenseDialogBody">Copyright (c) 2005-2025, Kishonti Ltd
+
+---
+
+## 1. Code License (BSD 3-Clause)
+
+All source code in this project is licensed under the BSD 3-Clause License.
+
+BSD 3-Clause License
+--------------------
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+3. Neither the name of the copyright holder nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+## 2. Asset License (Creative Commons)
+
+All non-code assets in this project (including but not limited to textures,
+models, animations, sound effects, and music) are licensed under the
+Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material for any purpose,
+  even commercially.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made.
+
+For details, see: https://creativecommons.org/licenses/by/4.0/
+
+---
+
+If you would like to use the assets under a different license or without
+attribution, please contact opensource@kishonti.net.</string>
   <string name="PrivacyDialogBody"></string>
 </resources>

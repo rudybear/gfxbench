@@ -284,7 +284,7 @@
   <string name="YourBestScore">Your Device's Best Score</string>
   <string name="YourDevice">您的设备</string>
   <string name="AboutSectionBody">GFXBench 是一款 3D 图形基准测试软件，用于测试您的设备的图形性能并将结果与所有主流平台上的其他设备进行比较。GFXBench 由 Kishonti Ltd 开发。如果您对我们的业务范围感兴趣，请访问我们的网站 kishonti.net！</string>
-  <string name="CorporateCommercial">请注意，您现在使用的是 GFXBench 社区版。对于开发用途，我们建议使用企业版。如果需要许可方面的信息，请通过 sales@kishonti.net 联系我们！</string>
+  <string name="CorporateCommercial"></string>
   <string name="FollowUsSectionBody">GFXBench 是一款跨平台 3D 图形基准测试软件，可测试您的设备性能并将结果与其他设备进行比较。</string>
   <string name="STATUS_VIEW_INFO_PAGE">Device is working correctly. View OpenGL details on InfoPage.</string>
   
@@ -437,101 +437,66 @@
   <string name="dx_trex_off">1080p 霸王龙离屏</string>
   <string name="dx_trex_qmatch">渲染质量</string>
   <string name="dx_trex_qmatch_highp">渲染质量（高精度）</string>
-  
-  
-  <string name="LicenseDialogBody">最终用户许可协议
-适用于 KISHONTI KFT 的基准测试软件产品
 
 
-重要提示 - 请仔细阅读：本软件最终用户许可协议是您与 KISHONTI KFT 之间关于 KISHONTI 的性能基准测试软件产品的协议，具有法律约束力。在您仔细阅读以下条款和条件之前，请勿下载、复制、安装或使用本最终用户许可协议项下提供的软件。凡不按照本最终用户许可协议对本软件及其任何组件所做的任何复制、转发或其它使用行为均为法律所明文禁止，且可能遭受严厉的民事和刑事处罚以及其他后果。
+  <string name="LicenseDialogBody">Copyright (c) 2005-2025, Kishonti Ltd
 
-针对个人非商业用途的许可证：本软件许可允许消费者在从事个人和非商业性质活动时，出于个人和非商业目的对他/她的设备的性能进行测试。除此之外，不授予或暗示任何其他用途。
-如果您需要用于商业用途的软件许可证，请通过 SALES@KISHONTI.NET 联系 KISHONTI KFT!
+---
 
+## 1. Code License (BSD 3-Clause)
 
-1. 定义
+All source code in this project is licensed under the BSD 3-Clause License.
 
-“设备”指符合软件说明文档中规定的软件系统要求且能够连接 Internet 的电子设备。
-“EULA”指本软件的最终用户许可协议。
-“KISHONTI”指 KKISHONTI Kft，KKISHONTI Kft 是遵照匈牙利法律成立的有限责任公司，注册所在地为 1037 Budapest, Szepvolgyi ut 39., Hungary，注册机构为布达佩斯大都会法院注册法庭，注册编号为 Cg. 01-09-935577。
-“禁用功能”指隐藏或显示为禁用或“灰色”的功能。本软件可能含有禁用功能，且这些功能只有在使用仅由 KISHONTI 提供的软件版本并支付许可费的情况下才会激活。
-“软件”指由 KISHONTI 根据本 EULA 在线（通过 Internet 连接）提供的性能基准测试软件，包括 (a) 文件的所有内容，其中可能包括 KISHONTI 或第三方计算机信息或软件、相关成文说明材料或文件和字体；(b) KISHONTI 随时提供给您的升级、修订版本、更新、附件和前述副本（统称为“更新”）。
-“使用”指利用本软件的功能来访问、下载、安装、运行、测试设备，或从利用本软件的功能中受益的其他行为。
+BSD 3-Clause License
+--------------------
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
 
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+3. Neither the name of the copyright holder nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
 
-2. 许可范围
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-KISHONTI 授予您的本软件的免费许可证为不可转让许可证，仅限于在您拥有或控制的任何设备上使用本软件。许可证和软件的使用权可能由 KISHONTI 根据本 EULA 中的规定随时中止（终止）。
+---
 
-有关使用本软件及其任何组件的权利和义务如下：
+## 2. Asset License (Creative Commons)
 
-(i) 您可以：
-(a) 免费下载、安装和使用本软件。使用本软件时需要连接 Internet；
-(b) 于任何时期在您用于个人用途的每个设备上使用本软件及其任何组件的一个副本以及所有更新，直至 KISHONTI 提供本软件（全权酌情决定）或直至 KISHONTI 终止本 EULA；
-(c) 在仅出于个人目的的情况下使用本软件。不允许将本软件和通过使用本软件生成的任何测试结果或其他数据用于商业用途（包括但不限于政府和非营利组织的使用）。
+All non-code assets in this project (including but not limited to textures,
+models, animations, sound effects, and music) are licensed under the
+Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 
-(ii) 您不可以：
-(a) 使用、复制、改编、修改或转让本软件副本（或授权任何人这样做），除非本 EULA 有明确规定；
-(b) 在计算机文件服务器上安装或使用本软件；
-(c) 从本软件中删除任何专有或其他声明或标签；
-(d) 对本软件进行逆向工程、重新配置、修改、转换、反编译、反汇编或制作衍生作品（尽管有此限制，但除了且只限于适用的强制性法律明确允许此类活动外）；
-(e) 出售、分发、出租、租赁、再授权、转让或分配软件及其任何副本，包括任何相关文档；
-(f) 提取本软件的部分要素；
-(g) 将本软件与任何其他软件、插件或增强功能集成使用；
-(h) 尝试得出本软件的源代码、确定或试图确定本软件的源代码或根据本产品创建任何衍生作品（尽管有此限制，但除了且只限于适用的强制性法律明确允许此类活动外）；
-(i) 访问或试图访问任何禁用功能，也不得依靠本软件创建与任何禁用功能大致相同的功能或避开控制任何此类禁用功能的激活的技术。
+You are free to:
 
-3. 知识产权所有权和权利保留。
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material for any purpose,
+  even commercially.
 
-本软件以及您制作的任何授权副本属于 KISHONTI（及其供应商，如适用）的知识产权。本软件的结构、组织和代码是 KISHONTI（及其供应商，如适用）的宝贵知识产权（如商业秘密和机密信息）。本软件受法律保护，包括但不限于匈牙利、美国和其他国家的版权法和国际条约规定。除本协议明确说明的内容之外，本 EULA 未授予您本软件的任何知识产权，而且所有未明确授权的权利均由 KISHONTI（及其供应商，如适用）保留。
-如本 EULA 中所述，您使用本软件创建的测试结果上传到 KISHONTI 的服务器后也将成为 KISHONTI 的财产。
+Under the following terms:
 
+- **Attribution** — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made.
 
-4. 连接性。上传并显示测试结果
+For details, see: https://creativecommons.org/licenses/by/4.0/
 
-(a) 需要 Internet 连接
-您获知并接受本软件只能在您的设备连接到 Internet（连接到 KISHONTI 的基准数据处理服务器）的情况下使用。
+---
 
-(b) 上传并显示测试结果
-您获知并接受在您使用本软件时，由使用本软件所产生的测试结果将在不作事先通知的情况下自动上传到 KISHONTI 的服务器。您也获知并接受据此上传的结果将成为 KISHONTI 的财产。测试结果是否显示在 KISHONTI 的网站上将由 KISHONTI 全权决定，且 KISHONTI 可以在不提供任何通知或理由的情况下显示、删除或迁移测试结果。
-
-(c) 更新
-如果您的设备已连接到 Internet，则本软件可能在不作事先通知的情况下检查可用的更新并自动下载和安装到您的设备上，并通知 KISHONTI 本软件已成功安装。更新可能在不作事先通知的情况下自动下载并安装。进行更新时，仅非个人身份识别信息会传送到 KISHONTI，除非 IP 地址在某些司法管辖区内可被视为个人识别信息。自动更新过程中提供的此类信息（包括您的 IP 地址）的使用受 KISHONTI 的隐私政策（您可在 www.kishonti.net 上进行查看）管辖。此外，如果您的设备连接到 Internet，则本软件可能在不作事先通知的情况下间歇性或经常性地帮助您访问托管在由 KISHONTI 进行维护的网站上的内容和服务。本软件连接到 Internet 时，您的 IP 地址、用户名和密码可能会发送到 KISHONTI 的服务器并由 KISHONTI 进行存储。KISHONTI 可能利用此信息来向您发送事务性消息，以方便本软件的使用和/或功能。KISHONTI 可能会在产品中显示营销内容，以提供有关本软件以及 KISHONTI 的其他产品和服务的信息。每当本软件进行 Internet 连接并与 KISHONTI 的网站进行通信时，无论是自动还是因明确的用户请求，KISHONTI 的隐私政策都将适用。
-
-
-5. 停止使用软件
-
-KISHONTI 将有权在不提供任何通知或理由的情况下，随时修改或更新本软件或修改或删除本软件的任何部分、元素和功能特性。
-
-KISHONTI 将有权在不提供任何通知或理由的情况下，随时中止（终止）本软件（或本软件的早期版本）或本软件的任何部分、元素和功能特性的获得、访问或使用。
-
-您使用本软件的许可在您或 KISHONTI 终止前一直有效。您可以通过从您的设备卸载（完全删除）本软件的所有副本来终止许可证。如果您违反本许可证的任何一项或多项条款，则本许可证授予您的权利将自动终止，KISHONTI 将不另行通知。许可证终止后，您应该停止本软件的所有使用，并销毁本软件所有的完整或部分副本。终止许可证（停止软件的可用性）将不影响 KISHONTI 对上传到其服务器的测试结果的所有权。
-
-
-6. 无保证和责任
-
-您明确获知并同意自行承担使用本软件（或无法使用）的风险，承担有关质量满意度、性能、准确性和付出的努力方面的所有风险。在适用的强制性法律所允许的最大范围内，本软件以及由 KISHONTI 履行或提供的任何服务在提供时为“按原样”和“可用”，不保证没有瑕疵且不提供任何形式的担保，KISHONTI 特此作出有关本软件和任何服务的所有保证和条件的免责声明，无论是明示、默示还是法定，包括但不限于默示的适销性保证和/或条件、质量满意度、针对特定用途的适用性、准确性、保密权以及不侵犯第三方权利。KISHONTI 不对以下事项提供保证：您享用本软件（其中包含的功能，或履行或提供的服务）不受干扰；本软件将满足您的需求；本软件或服务的操作将不会中断或没有错误；或本软件或服务中的缺陷将得到纠正。KISHONTI 或其授权代表提供的任何口头或书面信息或意见都不构成保证。本软件或服务如有瑕疵，您应承担所有必要的维修、修理或纠正的全部费用。某些司法管辖区不允许排除默示保证或者对消费者的适用的法定权利的限制；在这种情况下，将按适用法律所允许的最大限值（保证水平代表 KISHONTI 的最低（最小）风险水平）处理。
-
-在法律不禁止的范围内，任何情况下 KISHONTI 都不对人身、财产或经济损害，以及与不当使用本软件或使用本软件的设备有关的损害或损失负责，包括但不限于由于任何原因造成的设备过热所产生的伤害、损害或损失。您明确承担由使用本软件所产生或与其相关的所有个人、财产或经济损害的风险。在法律不禁止的范围内，任何情况下 KISHONTI 都不对人身、财产或经济损害，损害或损失，或任何附带、特殊、间接或结果性损害承担责任，包括但不限于与您使用或无法使用本软件所产生或与其相关的利润损失、数据丢失、营业中断、商业损失、存款损失或任何其他商业或非商业损害或损失，而无论责任理论（合同、侵权或其他）如何，即使 KISHONTI 已被告知发生此类损害的可能性。某些司法管辖区不允许限制人身伤害责任，或间接或结果性损害；在这种情况下，将按适用法律所允许的最大限值（责任水平代表 KISHONTI 的最低（最小）风险水平）处理。任何情况下 KISHONTI 对您的所有损害的总责任（除涉及人身伤害的情况下适用法律可能要求责任外）不超过 $50.00（50 美元）。即使上述补救措施未能达到其基本目的，上述限制仍将适用。
-
-7. 符合许可证
-您同意应 KISHONTI 或 KISHONTI 授权代表的要求，在 30（三十）天内充分地记录和证明（在提出此要求时）您对任何及所有软件的使用均符合从 KISHONTI 获得的有效许可证 。
-
-
-8. 管辖法律和司法管辖权
-
-本 EULA（包括但不限于由本 EULA 产生或与其相关的所有纠纷，其违约、终止、有效性或解释）将由匈牙利的现行实体法管辖和解释。尽管有本 EULA 中的任何条款的限制，但在提起诉讼前或诉讼期间，KISHONTI 或您可以请求任何司法、行政或其他权力机构采取任何临时或保全措施，包括禁令救济、实际履行或其他衡平法救济，以保全其权利和利益或强制执行适合临时救济的具体条款。本 EULA 的英文版将用于解释或理解本 EULA。本 EULA 将不受任何司法管辖区或联合国国际货物销售合同公约的法律规则冲突管辖，其应用被明确排除在外。
-
-
-9. 其他规定
-
-(a) 本 EULA 是 KISHONTI 与您之间有关本软件的完整协议，取代与本软件相关的任何先前的陈述、讨论、承诺、沟通或广告（除应用 KISHONTI 的隐私政策外）。
-(b) 若本 EULA（包括其中的任何部分、条款、段落、句子或单词）的任何条款为或变得无效或不可执行，将不影响本 EULA 的任何其他规定的有效性和可执行性，但本 EULA 的性质或内容或签署本 EULA 的该类规定的情形明显表明无法与本 EULA 的其余部分隔断的除外。其同样适用于本 EULA 中存有的任何错误或遗漏，可以在合理的范围内予以解决。如果存在法律上不可执行的条款，或纠正任何错误或遗漏，则当事人应该按照本 EULA 中规定的基本原则合理善意地就相应替代条款协商一致，其应该是如果他们知道法律不可执行性、错误或遗漏（视情况而定）时法律上可行的、最接近本 EULA 的商业意图或原有意图的替代条款。
-(c) 本 EULA 不会损害任何一方作为消费者的法定权利，如果这种权利强制适用于本 EULA。
-(d) 本 EULA 仅可由 KISHONTI 授权人员书面签署方可修改。更新可能会由 KISHONTI 通过其他或不同条款许可给您。
-(e) 您同意不从任何地方导出本软件的任何部分或通过使用本软件或任何直接产品生成的任何数据，除非符合且具有适用的出口法律、法规和规定所要求的所有许可证和批文。
-
-KISHONTI Kft。[*] 2013 年 9 月
-保留所有权利。本协议中未明确授权的任何权利均予以保留。</string>
+If you would like to use the assets under a different license or without
+attribution, please contact opensource@kishonti.net.
+</string>
   <string name="PrivacyDialogBody"></string>
 </resources>
